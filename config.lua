@@ -1,6 +1,6 @@
 Config = {}
 
-Config.UseOx = true -- If false, you'll need to change WaitBeforeNext and you can edit CustomFunction() function, so the text will be displayed
+Config.UseOx = false -- If false, you'll need to change WaitBeforeNext and you can edit CustomFunction() function, so the text will be displayed
 Config.Debug = true -- If you want to use command /DomasCam this must be true
 
 Config.VersionCheck = true
